@@ -1,3 +1,3 @@
 # Write your code here.
 
-def 
+def conference_badges()
